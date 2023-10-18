@@ -3,22 +3,20 @@
 
 Credit Card Validator - README
 
-Table of Contents
+### Table of Contents
 
-Overview
-Project Description
-Getting Started
-Prerequisites
-Installation
-Usage
-Validating Credit Cards
-Contributing
-License
-1. Overview
+[Overview](https://github.com/kyleyoshimoto/Luhn-Algorithm-Validator/edit/main/README.md?plain=1#L18)
+[Project Description](https://github.com/kyleyoshimoto/Luhn-Algorithm-Validator/edit/main/README.md?plain=1#L22)
+[Getting Started](https://github.com/kyleyoshimoto/Luhn-Algorithm-Validator/edit/main/README.md?plain=1#L33)
+[Prerequisites](https://github.com/kyleyoshimoto/Luhn-Algorithm-Validator/edit/main/README.md?plain=1#L37)
+[Installation](https://github.com/kyleyoshimoto/Luhn-Algorithm-Validator/edit/main/README.md?plain=1#L40)
+[Usage](https://github.com/kyleyoshimoto/Luhn-Algorithm-Validator/edit/main/README.md?plain=1#L50)
+
+## Overview
 
 Welcome to the Credit Card Validator project! This project is designed to help optimize the credit card validation process by leveraging JavaScript. While many professionals in this field still use manual methods, such as pencil and paper, we have developed a more efficient and automated solution using functions and loops. This allows you to validate multiple credit cards simultaneously, saving you time and effort. Now, you can focus on relaxing while ensuring the accuracy of credit card validation.
 
-2. Project Description
+## Project Description
 
 The primary objective of this project is to create a JavaScript script that efficiently validates credit card numbers using the Luhn algorithm. Generally speaking, an algorithm is a series of steps that solve a problem — the Luhn algorithm is a series of mathematical calculations used to validate certain identification numbers, e.g. credit card numbers. The calculations in the Luhn algorithm can be broken down as the following steps:
 
@@ -29,14 +27,14 @@ Sum up all the digits in the credit card number.
 
  The script employs various algorithms and checks to determine the validity of a given credit card number. By automating this process, you not only improve the accuracy of card validation but also save time compared to manual validation methods.
 
-3. Getting Started
+## Getting Started
 
 Before you can start validating credit cards, you need to set up the project.
 
-Prerequisites
+#### Prerequisites
 To run this project, you need to have a JavaScript runtime environment installed on your system. If you don't already have one, you can use a browser console or Node.js. Download and install Node.js from the official Node.js website.
 
-Installation
+#### Installation
 Clone this repository to your local machine.
 shell
 Copy code
@@ -46,7 +44,7 @@ shell
 Copy code
 cd credit-card-validator
 
-4. Usage
+## Usage
 
 Validating Credit Cards
 To validate credit cards, follow these steps:
@@ -58,9 +56,8 @@ Copy code
 node validate_credit_cards.js
 Follow the on-screen instructions to input the credit card numbers you want to validate.
 The script will process the numbers and display the validation results.
-Enjoy the time you've saved and the peace of mind knowing that you've efficiently validated the credit cards.
 
-5. Contributing
+## Contributing
 
 Contributions to this project are welcome. If you have suggestions for improvements or find any issues, please open an issue in this repository. To contribute, follow these general steps:
 

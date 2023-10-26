@@ -14,7 +14,7 @@ Credit Card Validator - README
 
 ## Overview
 
-Welcome to the Credit Card Validator project! This project is designed to help optimize the credit card validation process by leveraging JavaScript. While many professionals in this field still use manual methods, such as pencil and paper, we have developed a more efficient and automated solution using functions and loops. This allows you to validate multiple credit cards simultaneously, saving you time and effort. Now, you can focus on relaxing while ensuring the accuracy of credit card validation.
+Welcome to the Credit Card Validator project! This project is designed to help optimize the credit card validation process by leveraging JavaScript. While many professionals in this field still use manual methods, such as pencil and paper, we have developed a more efficient and automated solution using functions and loops. This allows you to validate multiple credit cards simultaneously, saving you time and effort.
 
 ## Project Description
 
